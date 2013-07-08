@@ -1,0 +1,171 @@
+-----Summarization of Episode Note-----
+-----Good Health Health Summary-----
+
+
+Patient Profile
+===============
+
+   Patient
+   -------
+      First name:           Adam
+      Last name:            Everyman
+      ID#1:                 12345
+      ID#2:                 111-00-1234
+      Phone#1:              tel:(781)555-1212 [HP]
+      Address:              H(ome)/W(ork): HP
+                                  17 Daws Rd., Blue Bell, MA 02368
+      Gender:               M
+      Birth Time:           11/25/1954
+      Marital Status:       Married
+      Religious Affil:      Christian (non-Catholic, non-specific)
+      Race:                 White
+      Ethnicity:            Not Hispanic or Latino
+      Language#1:           FR-CN  (Spoke/Write:  Recieve Written),  Preferred: true
+      Guardian#1:           Relative Ralph (Grandfather) of Patient
+                            tel:(781)555-1212[HP]
+                            17 Daws Rd., Blue Bell, MA 02368, H(ome)/W(ork): HP
+      BirthPlace:           MA 02368
+
+   Care Provider
+   -------------
+      Primary Care#1:       Good Health Clinic
+      Phone:                tel:(781)555-1212[WP]
+      Address:              21 North Ave, Burlington, MA 02368
+
+
+
+
+Allergies, Adverse Reactions, Alerts
+====================================
+
+            Substance            Reaction            Status
+            ---------            --------            ------            
+            Penicillin                               Active            
+            Aspirin                                  Active            
+            Codeine                                  Active            
+            
+
+
+Medications
+===========
+
+            Medication            Directions            Start Date            Status            Indications            Fill Instructions
+            ----------            ----------            ----------            ------            -----------            -----------------            
+                                  2 puffs QID PRN...   2011-03-01            Active            Bronchitis (323...    Generic Substit...          
+            
+
+
+Problems
+========
+
+            
+     1) Pneumonia: Resolved in March 1998
+     2) ...
+     
+
+
+Procedures
+==========
+
+            Procedure            Date
+            ---------            ----            
+                                 1998            
+            
+
+
+Results
+=======
+
+            
+
+
+Advance Directives
+==================
+
+            Directive            Description            Verification            Supporting Document(s)
+            ---------            -----------            ------------            ----------------------            
+            Resuscitation s...                         Dr. Robert Doli...                                       
+            
+
+
+Encounters
+==========
+
+            Encounter            Performer            Location            Date
+            ---------            ---------            --------            ----            
+             Examination         Performer Name       Good Health Cli... Apr 07, 2000    
+            
+
+
+Family history
+==============
+
+            Diagnosis            Age At Onset
+            ---------            ------------            
+            Myocardial Infa...  57                      
+            Diabetes             40                      
+            
+
+
+Immunizations
+=============
+
+            Vaccine            Date            Status
+            -------            ----            ------            
+            Influenza virus...Nov 1999        Completed         
+            Influenza virus...Dec 1998        Completed         
+            Pneumococcal po...Dec 1998        Completed         
+            Tetanus and dip...1997            Refused           
+            
+
+
+Medical Equipment
+=================
+
+            Supply/Device            Date Supplied
+            -------------            -------------            
+            Automatic impla...      Nov 1999                 
+            Total hip repla...      1998                     
+            Wheelchair               1999                     
+            
+
+
+Insurance Providers
+===================
+
+            Payer name            Policy type / Coverage type            Policy ID            Covered party ID            Policy Holder
+            ----------            ---------------------------            ---------            ----------------            -------------            
+            Good Health Ins...   Extended health...                    Contract Number      1138345                     Patient's Mothe...      
+            
+
+
+Plan of Care
+============
+
+            Planned Activity            Planned Date
+            ----------------            ------------            
+            Colonoscopy                 April 21, 2000          
+            
+
+
+Social History
+==============
+
+            Social History Element            Description            Effective Dates
+            ----------------------            -----------            ---------------            
+             smoking                          1 pack per day         1947 - 1972                
+             smoking                          None                   1973 -                     
+            Alcohol consump...               None                   1973 -                     
+            
+
+
+Vital Signs
+===========
+
+            Date / Time:             Nov 14, 1999            April 7, 2000
+            -------------            ------------            -------------            
+                                                                                      
+                                                                                      
+            
+
+--------End Of Document--------

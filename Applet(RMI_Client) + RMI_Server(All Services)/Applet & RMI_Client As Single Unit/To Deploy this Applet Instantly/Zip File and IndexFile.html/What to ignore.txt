@@ -1,0 +1,1 @@
+Ignore the Classes in Zip File that are starting with ProjectC...as they belong to my prev. applet project.

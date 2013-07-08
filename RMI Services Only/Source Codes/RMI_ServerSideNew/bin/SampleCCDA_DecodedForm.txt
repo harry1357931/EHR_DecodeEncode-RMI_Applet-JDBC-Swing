@@ -1,0 +1,76 @@
+Patient Profile
+===============
+
+	Patient
+	-------
+		First name: 	Ruben
+		Last name: 	Caldwell
+		Gender: 	M
+		Marital Status:	Single
+		Religious Affil:NA
+		Ethnicity:	White/Caucasian
+		LanguageL	English
+		Address:	240a SW 3rd St., Gainseville, FL 32601
+
+	Care Provider
+	-------------
+		Primary Care: 	Bishop, J. ANRP
+		Address: 	Malcolm Randall VA Medical Center, Gainesville, FL
+		Phone:		1-888-5000-5678
+
+	Immunizations
+	-------------
+		1. 07/09/2002	Pneumovax
+		2. 01/12/2005	Hepatitis B Series completed
+		3. 02/02/2010	Tetanus Toxoid
+
+	Allergies
+	---------
+		1. Latex 	(AV/Historical) with rash and agitation.
+
+
+Medical History
+===============
+	Problem: Gout			History: Nov. 16, 2012 - Present
+	--------------------------------------------------------
+		Involved in Care:
+			James Bishop, ANRP	Primary Care
+			Matthew Leonard, MD	Diagnosing Physician
+			Stephanie Wrenn, RD	Dietitian
+
+		Initial Presentation:
+			Acute right knee pain and tenderness around joint line - this was likely caused by acute renal failure.
+
+		What to watch for:
+			If you have worsening knee pain, see your primary care doctor or urgent care physician. They may want to start long-term therapy with allopurinol, a gout medication.
+
+		History (Nov. 16, 2012 - Present):
+			1. Nov. 19, 2012	
+			   Medications: Colchicine, as needed for gout attacks.
+			2. Nov. 16, 2012	
+			   Procedures: The fluid in your right knee was drained.
+			   Tests and Examinations: The fluid tested positive for gout crystals.
+			   Medications: You were given a steroid injection to reduce inflammation and a short-course prednisone to reduce pain and inflammation.
+
+	Problem: Coronary Artery Disease 	History: Jan. 29, 2001 - Present
+	--------------------------------------------------------------------
+		Involved in Care:
+			James Bishop, ANRP	Primary Care
+			Steven Wright, MD	Cardiologist
+
+		Initial Presentation:
+			A screening lipid panel showed high LDL cholesterol and low HDL cholesterol.
+
+		What to watch for:
+			Please continue a healthy diet low in cholesterol, and continue the exercise plan we designed. If you have chest pain or shortness of breath, please seek medical attention. Continue to take your Simvastatin, Aspirin and Clopidogrel as prescribed.
+
+		History (Jan. 29, 2001 - Present):
+		1. Oct. 10, 2012
+		   Test and Examinations: Routine lipid panel showed HDL (66) and LDL (68) cholesterol were well controlled at goal levels (HDL > 60, LDL < 70).
+		2. June 6, 2006
+		   Test and Examiniation: Reported to VA emergency room with chest pain and elevated cardiac enzymes. Left heart-catheterization was performed and placed drug-eluting stents in 2 vessels; bypass grafts were open.
+		3. Feb. 2., 2003
+		   Procedure: Double coronary artery bypass grafting was performed using saphenous and LIMA grafts.
+		   Tests and Examiniations: Reported to the emergency department of outside hospital with chest pain and was found to have severe blockages in 2 major coronary arteries.
+		4. Jan. 29, 2002
+		   Procedures: Double coronary artery bypass grafting was performed using saphenous and LIMA grafts.

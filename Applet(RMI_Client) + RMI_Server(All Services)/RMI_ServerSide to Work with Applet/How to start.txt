@@ -1,0 +1,20 @@
+@author1 Gurpreet Singh 
+@author2 Tatsiana
+
+Use command prompt to start Server: 
+-----------------------------------
+
+Go to the directory where Jar file is. It takes two arguments:
+
+Example:  java -jar RMI_Server3.jar localhost 2099
+
+Ist Argument: Must be an IP to which you want to bind your Server [Example: localhost, 149.2.223.104]
+2nd Argument: Port number [Example: 2099]
+
+Make sure the port number you specified is not busy.
+
+
+RMI_Server Side contains or provides three Services:
+1) ConvertCCDA to HRF(Text)
+2) ConvertCCD to HRF(Text)
+3) CCDAtoCCD Converter

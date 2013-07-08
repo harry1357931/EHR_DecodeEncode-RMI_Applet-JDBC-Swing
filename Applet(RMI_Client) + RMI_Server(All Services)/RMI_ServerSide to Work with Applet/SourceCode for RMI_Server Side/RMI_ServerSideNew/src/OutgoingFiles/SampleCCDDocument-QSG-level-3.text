@@ -1,0 +1,74 @@
+Patient Profile
+===============
+
+      Patient
+      -------
+            First name:      Henry
+            Last name:       Levin
+            Gender:      M
+            Marital Status:      NA
+            Ethnicity:      NA
+            Language:      NA
+            Address:     NA
+            Date of Birth:       24/09/1932
+
+      Care Provider
+      -------------
+            Primary Care:      Dolin, Robert
+            Primary Care:      Seven, Henry
+                               tel:+1-555-555-5000
+
+      Allergies: 
+      -----------
+            1. Adverse reaction to substance
+                  Aspirin      Wheezing      Active
+            2. Adverse reaction to substance
+                  Penicillin      Hives      Active
+            3. Adverse reaction to substance
+                  Codeine      Nausea      Active
+
+
+
+
+
+
+      Immunizations: 
+      ---------------
+            1.       Influenza virus vaccine
+            2.       Influenza virus vaccine
+            3.       Pneumococcal polysaccharide vaccine
+            4.       Tetanus and diphtheria toxoids
+
+
+
+
+      Medications: 
+      -------------
+            1. Albuterol 0.09 MG/ACTUAT inhalant solution
+               Precondition: Wheezing
+            2. Clopidogrel 75 MG oral tablet
+               Precondition: NA
+            3. Metoprolol 25 MG oral tablet
+               Precondition: NA
+            4. Prednisone 20 MG oral tablet
+               Precondition: NA
+            5. Cephalexin 500 MG oral tablet
+               Precondition: NA
+
+
+
+
+
+
+
+
+
+      Health Problems: 
+      -----------------
+            1. 1999      Pneumonia      
+            2. 1999      Clinical finding      
+            3. 1950      Asthma      
+            4. 1997      Myocardial infarction      
+            5. 1997      Pneumonia      
+
+

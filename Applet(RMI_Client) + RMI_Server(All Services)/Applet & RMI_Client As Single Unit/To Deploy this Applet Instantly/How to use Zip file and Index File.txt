@@ -1,0 +1,5 @@
+How to use this Zip file and index file.
+
+1) Sign the Zip file using jarsigner.
+2) Put the Zip file and Index file into the same folder on Server.
+3) Ignore the Classes in Zip File that are starting with ProjectC...as they belong to my prev. applet project.

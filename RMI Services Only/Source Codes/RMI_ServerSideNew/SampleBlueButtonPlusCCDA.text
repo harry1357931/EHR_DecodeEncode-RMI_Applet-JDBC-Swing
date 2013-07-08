@@ -1,0 +1,166 @@
+-----Summarization of Episode Note-----
+-----Community Health and Hospitals: Health Summary-----
+
+
+Patient Profile
+===============
+
+   Patient
+   -------
+      First name:           Myra
+      Last name:            Jones
+      ID#1:                 1
+      ID#2:                 123-101-5230
+      Phone#1:              tel:(816)276-6909 [HP]
+      Address:              H(ome)/W(ork): HP
+                                  1357 Amber Drive, Beaverton, OR 97006
+      Gender:               F
+      Birth Time:           05/01/1947
+      Marital Status:       Married
+      Religious Affil:      Christian (non-Catholic, non-specific)
+      Race:                 White
+      Ethnicity:            Not Hispanic or Latino
+      Language#1:           ENG  (Spoke/Write:  Expressed spoken),  Preferred: true
+      Guardian#1:           Jones Ralph (Grandfather) of Patient
+                            tel:(816)276-6909[HP]
+                            1357 Amber Drive, Beaverton, OR 97006, H(ome)/W(ork): HP
+      BirthPlace:           Beaverton, OR 97006
+
+   Care Provider
+   -------------
+      Primary Care#1:       Community Health and Hospitals
+      Phone:                tel: 555-555-5000[WP]
+      Address:              1002 Healthcare Dr, Portland, OR 97266
+
+
+
+
+ALLERGIES, ADVERSE REACTIONS, ALERTS
+====================================
+
+            Substance            Reaction            Severity            Status
+            ---------            --------            --------            ------            
+            Penicillin G be...  Hives               Moderate to sev... Inactive          
+            Codeine              Shortness of Br... Moderate            Active            
+            Aspirin              Hives               Mild to moderat... Active            
+            
+
+
+ENCOUNTERS
+==========
+
+            Encounter            Performer            Location            Date
+            ---------            ---------            --------            ----            
+             Pnuemonia           Dr Henry Seven       Community Healt... 20120806        
+            
+
+
+IMMUNIZATIONS
+=============
+
+            Vaccine            Date            Status
+            -------            ----            ------            
+            Influenza virus...May 2012        Completed         
+            Tetanus and dip...Aor 2012        Completed         
+            
+
+
+Medications
+===========
+
+            Medication            Directions            Start Date            Status            Indications            Fill Instructions
+            ----------            ----------            ----------            ------            -----------            -----------------            
+            Albuterol 0.09 ...   0.09 MG/ACTUAT ...   20120806              Active            Pneumonia (2336...    Generic Substit...          
+            
+
+
+CARE PLAN
+=========
+
+            Planned Activity            Planned Date
+            ----------------            ------------            
+            Consultation wi...         20120820                
+            Chest X-ray                 20120826                
+            Sputum Culture              20120820                
+            
+
+
+HOSPITAL DISCHARGE MEDICATIONS
+==============================
+
+            Medication            Directions            Start Date            Status            Indications            Fill Instructions
+            ----------            ----------            ----------            ------            -----------            -----------------            
+            120 ACTUAT Flut...   0.11 MG/ACTUAT ...   20120813              Active            Bronchitis (323...    Generic Substit...          
+            
+
+
+REASON FOR REFERRAL
+===================
+
+            
+
+
+PROBLEMS
+========
+
+            
+     
+
+
+PROCEDURES
+==========
+
+            Procedure            Date
+            ---------            ----            
+                                 8/7/2012        
+            
+
+
+FUNCTIONAL STATUS
+=================
+
+            Functional Condition            Effective Dates            Condition Status
+            --------------------            ---------------            ----------------            
+            Dependence on c...             2008                       Active                      
+                                            2008                       Active                      
+            
+
+
+RESULTS
+=======
+
+            
+
+
+SOCIAL HISTORY
+==============
+
+            Social History Element            Description            Effective Dates
+            ----------------------            -----------            ---------------            
+                                              
+
+
+VITAL SIGNS
+===========
+
+            Date / Time:             Nov 1, 2011            August 6, 2012
+            -------------            -----------            --------------            
+            69 inches                69 inches              189 lbs                   
+            194 lbs                  132/86 mmHg            145/88 mmHg               
+            
+
+
+HOSPITAL DISCHARGE INSTRUCTIONS
+===============================
+
+            
+     1) Take all medications as prescribed.
+     2) Please monitor your peak flows. If your peak flows drop to 50% of normal, call my office immediately or return to the Emergency Room.
+     3) Shortness of Breath
+     4) Dizziness or Light-headedness
+     5) Fever, chills, or diffuse body aches
+     6) Pain or redness at the site of any previous intravenous catheter
+     7) Any other unusual problem
+     
+
+--------End Of Document--------
